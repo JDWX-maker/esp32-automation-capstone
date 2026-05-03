@@ -1,0 +1,48 @@
+{"timestamp": "2026-05-03T17:09:22.004409", "ldr": 1365, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:09:24.518185", "ldr": 1507, "brightness": "Bright (indoor lighting)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:09:26.662389", "ldr": 1497, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:09:29.083564", "ldr": 1479, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:09:31.176879", "ldr": 1212, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:09:33.410799", "ldr": 1501, "brightness": "Bright (indoor lighting)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:09:35.774911", "ldr": 1516, "brightness": "Bright (indoor lighting)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:09:38.120665", "ldr": 1385, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:09:40.997982", "ldr": 1151, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:09:43.263940", "ldr": 1341, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:09:45.686296", "ldr": 1390, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:09:47.772824", "ldr": 1395, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:09:49.997709", "ldr": 1385, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:09:52.247087", "ldr": 435, "brightness": "Low Light (near dark)", "state": "dark", "threshold": 685, "mode": "AUTO", "led": {"green": 0, "red": 1}}
+{"timestamp": "2026-05-03T17:09:54.290296", "ldr": 457, "brightness": "Low Light (near dark)", "state": "dark", "threshold": 685, "mode": "AUTO", "led": {"green": 0, "red": 1}}
+{"timestamp": "2026-05-03T17:09:56.389746", "ldr": 973, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:09:58.593427", "ldr": 1595, "brightness": "Bright (indoor lighting)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:00.670652", "ldr": 1560, "brightness": "Bright (indoor lighting)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:02.955978", "ldr": 1343, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:05.232506", "ldr": 1317, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:07.443856", "ldr": 1363, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:10.882111", "ldr": 1325, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:13.171050", "ldr": 1367, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:15.393070", "ldr": 1336, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:17.643343", "ldr": 1337, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:19.894432", "ldr": 1341, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:21.990505", "ldr": 1365, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:24.279224", "ldr": 1365, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:26.519926", "ldr": 1353, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:29.006370", "ldr": 1363, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:31.183004", "ldr": 1353, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:33.413844", "ldr": 1341, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:35.496289", "ldr": 1379, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:37.737936", "ldr": 1349, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:40.093804", "ldr": 1355, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:42.285991", "ldr": 1359, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:44.540846", "ldr": 1331, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:47.076459", "ldr": 1383, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:49.187743", "ldr": 1397, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:51.434562", "ldr": 1368, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:53.516045", "ldr": 1093, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:55.820949", "ldr": 1069, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:10:58.602148", "ldr": 1081, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:11:00.648069", "ldr": 1087, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:11:02.743905", "ldr": 1108, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:11:04.956208", "ldr": 1141, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:11:07.304756", "ldr": 1127, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
+{"timestamp": "2026-05-03T17:11:09.451494", "ldr": 1093, "brightness": "Dim (evening or shaded)", "state": "light", "threshold": 685, "mode": "AUTO", "led": {"green": 1, "red": 0}}
